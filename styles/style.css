@@ -4,7 +4,7 @@
 
 .body {
     background-image: linear-gradient(rgba(28, 13, 111, 0.7), rgba(28, 13, 111, 0.7)),
-        url("/images/survey-form-background.jpeg");
+        url("../images/survey-form-background.jpeg");
     background-size: cover;
     background-color: black;
     margin: 0;
